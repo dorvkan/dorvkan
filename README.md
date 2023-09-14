@@ -1,0 +1,5 @@
+- 👋 Hi, I’m @dorvkan
+- 👀 I’m interested in coding, gaming, writing, drawing and most importantly creating new things.
+- 🌱 I’m currently learning C, python and image processing.
+- 📫 You can use my e-mail: dorvkan@gmail.com and my instagram: dorvkan to reach me.
+- Looking forward to meet new people and learn new things.
